@@ -1,6 +1,6 @@
 # AppXercise
 
-João Vitor Alves e Murilo Granemann Bonin
+João Vitor Alves
 
 Rede social de treinos e exercícios. Estilo Instagram
 
